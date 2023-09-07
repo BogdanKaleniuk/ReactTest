@@ -1,0 +1,97 @@
+.sale__content {
+  display: flex;
+}
+
+.sale__img {
+  /* width: 991px;
+  height: 968px;
+  flex-shrink: 0; */
+}
+
+.sale__info-bg {
+  width: 932.94px;
+  /* height: 968px; */
+  background: linear-gradient(
+    1deg,
+    #e0c340 0.13%,
+    #dfc23e 3.97%,
+    #e1c441 7.2%,
+    #e3c743 10.13%,
+    #e4c542 12.98%,
+    #e6c744 15.99%,
+    #e7c845 19.52%,
+    #e5c643 23.96%,
+    #e6c945 30.43%,
+    #e3c743 36.49%,
+    #e9ca48 42.49%,
+    #edce49 49.35%,
+    #f0d44c 55.42%,
+    #f4d84f 61.43%,
+    #f6da52 65.74%,
+    #f7db53 72.23%,
+    #f9dd55 77.43%,
+    #f9df56 83.84%,
+    #fae157 91.52%,
+    #f9df56 97.87%
+  );
+}
+
+.sale__info {
+  margin-right: 50px;
+
+  margin-left: 90px;
+}
+
+.sale__title {
+  margin-top: 140px;
+  font-size: 105px;
+  font-weight: 900;
+  line-height: 1.23; /* 122.917% */
+}
+
+.highlight-mini::before {
+  top: -5px;
+  bottom: -0px;
+  left: -20px;
+  right: -20px;
+}
+
+.sale__text {
+  margin-top: 30px;
+  color: #231300;
+  font-size: 36px;
+  font-weight: 500;
+  line-height: 1.45; /* 145.161% */
+  letter-spacing: -0.721px;
+}
+
+.sale__text-date {
+  margin-top: 25px;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.45; /* 145.161% */
+  letter-spacing: 0.721px;
+}
+
+.sale__text-date-bottom {
+  font-size: 36.04px;
+  font-weight: 400;
+  line-height: 1.45;
+  letter-spacing: -0.721px;
+}
+
+.sale__btn-wrapper {
+  margin-top: 50px;
+}
+
+.sale__btn {
+  margin-top: 140px;
+
+  padding: 26px 51px;
+  color: #fff;
+  background-color: #000;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 0.56px;
+  border-radius: 8px;
+}
